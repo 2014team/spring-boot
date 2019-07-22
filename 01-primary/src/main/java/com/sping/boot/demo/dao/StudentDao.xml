@@ -7,13 +7,13 @@
         insert into student(name) values(#{name})
     </insert>
 
-   <!-- <select id="selectStudentById" resultType="Student">
-        select id,name,age from student where id=#{id}
+   <select id="selectStudentById" resultType="Student">
+        select name from student where id=#{id}
     </select>
 
     <select id="selectStudentsCount" resultType="int">
         select count(id) from student
-    </select>-->
+    </select>
 
 
 </mapper>
