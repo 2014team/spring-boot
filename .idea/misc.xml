@@ -6,6 +6,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/04-ssrm-mybatis/pom.xml" />
         <option value="$PROJECT_DIR$/04-ssrm-mybatis-tx/pom.xml" />
+        <option value="$PROJECT_DIR$/04-ssrm-logback/pom.xml" />
       </list>
     </option>
   </component>

@@ -7,12 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="04-ssrm-mybatis-tx" />
+        <module name="04-ssrm-logback" />
         <module name="spring-boot" />
         <module name="04-ssrm-mybatis" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="01-primary" target="1.5" />
+      <module name="04-ssrm-logback" target="1.8" />
       <module name="04-ssrm-mybatis" target="1.8" />
       <module name="04-ssrm-mybatis-tx" target="1.8" />
       <module name="spring-boot" target="1.5" />
@@ -20,6 +22,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="04-ssrm-logback" options="-parameters" />
       <module name="04-ssrm-mybatis" options="-parameters" />
       <module name="04-ssrm-mybatis-tx" options="-parameters" />
     </option>
