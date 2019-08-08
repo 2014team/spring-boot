@@ -5,6 +5,11 @@
       <module fileurl="file://$PROJECT_DIR$/04-ssrm-logback/04-ssrm-logback.iml" filepath="$PROJECT_DIR$/04-ssrm-logback/04-ssrm-logback.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-ssrm-mybatis/04-ssrm-mybatis.iml" filepath="$PROJECT_DIR$/04-ssrm-mybatis/04-ssrm-mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-ssrm-mybatis-tx/04-ssrm-mybatis-tx.iml" filepath="$PROJECT_DIR$/04-ssrm-mybatis-tx/04-ssrm-mybatis-tx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-ssrm-redis/04-ssrm-redis.iml" filepath="$PROJECT_DIR$/04-ssrm-redis/04-ssrm-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-interceptor/06-interceptor.iml" filepath="$PROJECT_DIR$/06-interceptor/06-interceptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-servlet/07-servlet.iml" filepath="$PROJECT_DIR$/07-servlet/07-servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-servlet2/07-servlet2.iml" filepath="$PROJECT_DIR$/07-servlet2/07-servlet2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-thymeleaf/08-thymeleaf.iml" filepath="$PROJECT_DIR$/08-thymeleaf/08-thymeleaf.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot.iml" filepath="$PROJECT_DIR$/spring-boot.iml" />
     </modules>
   </component>

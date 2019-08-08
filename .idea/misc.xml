@@ -7,6 +7,11 @@
         <option value="$PROJECT_DIR$/04-ssrm-mybatis/pom.xml" />
         <option value="$PROJECT_DIR$/04-ssrm-mybatis-tx/pom.xml" />
         <option value="$PROJECT_DIR$/04-ssrm-logback/pom.xml" />
+        <option value="$PROJECT_DIR$/04-ssrm-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/06-interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/07-servlet/pom.xml" />
+        <option value="$PROJECT_DIR$/07-servlet2/pom.xml" />
+        <option value="$PROJECT_DIR$/08-thymeleaf/pom.xml" />
       </list>
     </option>
   </component>

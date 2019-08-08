@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+  <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+    <encoder>
+     <!-- # 指定日志在控制台显示的格式-->
+      <pattern>%-5level - %msg%n</pattern>
+    </encoder>
+  </appender>
+  <!-- # 项目启动日志级别-->
+  <root level="WARN">
+    <appender-ref ref="STDOUT" />
+  </root>
+  <!--# 指定包中代码运行的日志级别-->
+  <logger name="com.abc.dao" level="DEBUG" />
+</configuration>
+
+
+
+
+
+

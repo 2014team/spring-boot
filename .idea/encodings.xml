@@ -4,5 +4,10 @@
     <file url="file://$PROJECT_DIR$/04-ssrm-logback" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/04-ssrm-mybatis" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/04-ssrm-mybatis-tx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-ssrm-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-interceptor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07-servlet" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07-servlet2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08-thymeleaf" charset="UTF-8" />
   </component>
 </project>
