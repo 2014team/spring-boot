@@ -10,7 +10,9 @@
       <module fileurl="file://$PROJECT_DIR$/07-servlet/07-servlet.iml" filepath="$PROJECT_DIR$/07-servlet/07-servlet.iml" />
       <module fileurl="file://$PROJECT_DIR$/07-servlet2/07-servlet2.iml" filepath="$PROJECT_DIR$/07-servlet2/07-servlet2.iml" />
       <module fileurl="file://$PROJECT_DIR$/08-thymeleaf/08-thymeleaf.iml" filepath="$PROJECT_DIR$/08-thymeleaf/08-thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-usecustomstarter/09-usecustomstarter.iml" filepath="$PROJECT_DIR$/09-usecustomstarter/09-usecustomstarter.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot.iml" filepath="$PROJECT_DIR$/spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wrap-spring-boot-starter/wrap-spring-boot-starter.iml" filepath="$PROJECT_DIR$/wrap-spring-boot-starter/wrap-spring-boot-starter.iml" />
     </modules>
   </component>
 </project>

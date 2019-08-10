@@ -12,6 +12,8 @@
         <option value="$PROJECT_DIR$/07-servlet/pom.xml" />
         <option value="$PROJECT_DIR$/07-servlet2/pom.xml" />
         <option value="$PROJECT_DIR$/08-thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/wrap-spring-boot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/09-usecustomstarter/pom.xml" />
       </list>
     </option>
   </component>
